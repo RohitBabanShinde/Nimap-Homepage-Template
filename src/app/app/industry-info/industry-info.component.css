@@ -1,0 +1,121 @@
+.industries{
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.header{
+  width: 100%;
+  margin-bottom: 50px;
+}
+.header h1{
+  font-weight: 700;
+  font-size: 2rem;
+  color: #222;
+  margin-bottom: 10px;
+}
+.header p{
+  color: #555;
+}
+.industries-img{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.img-box p{
+  width: 100%;
+  text-align: center;
+  margin-top: 5px;
+  color: #555;
+  font-size: 1.1rem;
+}
+
+
+/*  */
+
+
+/*  */
+.study{
+  padding: 10px;
+  width: 100%;
+  position: relative;
+  background: rgba(98, 193, 242, .9);
+  position: relative;
+}
+.study-header h1{
+margin-bottom: 10px;
+color: #fff;
+font-weight: 700;
+font-size: 2rem;
+}
+
+.case-img img
+{
+  text-align: center;
+  margin-right: -30px;
+  width: 400px;
+  margin-bottom: 30px;
+}
+.info h3
+{
+  color: #fff;
+  font-size: 2rem;
+  font-size: 500;
+  margin-bottom: 20px;
+}
+.info p{
+  color:#fff;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.btn a{
+text-decoration: none;
+color: #03A9F4;
+font-size: 1.2rem;
+font-weight: 500;
+padding: 10px 16px;
+background: #fff;
+border-radius: 20px;
+}
+.btn a:hover{
+  border: 3px solid #fff;
+  background: #03A9F4;
+  color: #fff;
+  margin-bottom: 50px;
+}
+
+.bottom-img{
+  margin-top: 50px;
+}
+.box img{
+  width: 200px;
+  padding-bottom: 30px;
+}
+
+.boxl{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 70px;
+}
+.boxl .box1, .box2{
+  background: #000;
+  margin: 10px;
+  font-size: 2rem;
+  padding: 6px;
+  color: #03A9F4;
+  transition: all .3s ease;
+}
+
+.boxl .box1:hover{
+  background: #fff;
+}
+
+.box2:hover
+{
+  background: #fff;
+}
